@@ -19,7 +19,7 @@ This project aims to replicate the experience of ordering coffee at Starbucks in
 - **Frontend:**
   - HTML5
   - CSS3 (with Flexbox and Grid)
-  - JavaScript (React.js for dynamic UI)
+  - JavaScript 
 
 - **Version Control:**
   - Git and GitHub
